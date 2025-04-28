@@ -9,10 +9,12 @@ A simple, interactive web-based application built using **Streamlit** and **MySQ
 - 🗂️ Organized using a **tabbed sidebar** interface
 - 🛠️ Built with **Streamlit**, **MySQL**, and **Pandas**
 
- Streamlit - Web UI and user interactions
+  Technologies used : 
+
+                    Streamlit - Web UI and user interactions
  
- MySQL     - Backend database
+                    MySQL     - Backend database
  
- Pandas    - Data formatting and tables 
+                    Pandas    - Data formatting and tables 
  
- mysql-connector-python -  Python-MySQL connectivity
+                    mysql-connector-python -  Python-MySQL connectivity
