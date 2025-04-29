@@ -6,8 +6,8 @@ import requests
 
 config = {
     'user': 'root',
-    'password': 'Chaitali@22',
-    'host': 'localhost',
+    'password': '***********',
+    'host': '*********',
     'port': 3306,
     'database': 'patient'
 }
